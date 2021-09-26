@@ -41,6 +41,8 @@ SEEKS_1 ENDP
 TUTOR:
         JMP     K16
 .LIST
+
+
 • In all cases the 32KB ROM BASIC code which resides at F6000 is not available as its source code was never published.
 
 • Versions of MASM later than 4.0 cannot be used to build the IBM BIOS source code since older constructs and macros are used.
