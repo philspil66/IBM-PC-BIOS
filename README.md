@@ -3,9 +3,13 @@
 This is a reconstruction of the IBM PC, PC XT, PC AT and PC XT 286 BIOS source code using scanning and transcription of the BIOS listings found in the IBM Technical Reference manuals. This historically relevant source code is presented here for software preservation.
 
 The following BIOS source code has been reconstructed:
+
 IBM PC version 1     04/21/81
+
 IBM PC version 2     10/19/81
+
 IBM PC version 3     10/27/82
+
 
 Notes:
 
